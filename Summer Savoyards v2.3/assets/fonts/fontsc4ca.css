@@ -1,0 +1,117 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2896454, 2014-10-06T20:30:07-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: OptimaLT-BoldItalic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/bold-oblique/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted &#x00A9; 1995 -2006 Linotype GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype GmbH, and may not be reprod
+ * 
+ * Webfont: OptimaLT-MediumItalic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/medium-italic/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1995, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * Webfont: OptimaLT-Medium by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/medium/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1995, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * Webfont: OptimaLT-BlackItalic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/black-italic/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1995, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * Webfont: OptimaLT by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/optima/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted &#x00A9; 1985 -2006 Linotype GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype GmbH, and may not be reprod
+ * 
+ * Webfont: OptimaLT-ExtraBlackItalic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/extra-black-italic/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1995, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * Webfont: OptimaLT-Italic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/oblique/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted &#x00A9; 1995 -2006 Linotype GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype GmbH, and may not be reprod
+ * 
+ * Webfont: OptimaLT-ExtraBlack by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/extra-black/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1995, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * Webfont: OptimaLT-Bold by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/bold/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted &#x00A9; 1985 -2006 Linotype GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype GmbH, and may not be reprod
+ * 
+ * Webfont: OptimaLT-Black by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/black/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1995, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * Webfont: OptimaLT-DemiBold by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/demi-bold/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1995, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * Webfont: OptimaLT-DemiBoldItalic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/optima/demi-bold-italic/
+ * Copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1995, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2896454
+ * Licensed pageviews: 250,000
+ * 
+ * © 2014 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+/*@import url("//hello.myfonts.net/count/2c3246");*/
+
+.desktop .blur
+,.tablet .blur
+{
+	transition: 0;
+	filter: blur(5px);
+	-webkit-filter: blur(5px);
+	-moz-filter: blur(5px); 
+	-o-filter: blur(5px); 
+	-ms-filter: blur(5px);
+	filter: url(blur.svg#blur);
+	filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='5');
+}
+ 
+@font-face {font-family: 'OptimaLT-BoldItalic';src: url('optima/2C3246_0_0.eot');src: url('optima/2C3246_0_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_0_0.woff') format('woff'),url('optima/2C3246_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-MediumItalic';src: url('optima/2C3246_1_0.eot');src: url('optima/2C3246_1_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_1_0.woff') format('woff'),url('optima/2C3246_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-Medium';src: url('optima/2C3246_2_0.eot');src: url('optima/2C3246_2_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_2_0.woff') format('woff'),url('optima/2C3246_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-BlackItalic';src: url('optima/2C3246_3_0.eot');src: url('optima/2C3246_3_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_3_0.woff') format('woff'),url('optima/2C3246_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT';src: url('optima/2C3246_4_0.eot');src: url('optima/2C3246_4_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_4_0.woff') format('woff'),url('optima/2C3246_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-ExtraBlackItalic';src: url('optima/2C3246_5_0.eot');src: url('optima/2C3246_5_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_5_0.woff') format('woff'),url('optima/2C3246_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-Italic';src: url('optima/2C3246_6_0.eot');src: url('optima/2C3246_6_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_6_0.woff') format('woff'),url('optima/2C3246_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-ExtraBlack';src: url('optima/2C3246_7_0.eot');src: url('optima/2C3246_7_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_7_0.woff') format('woff'),url('optima/2C3246_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-Bold';src: url('optima/2C3246_8_0.eot');src: url('optima/2C3246_8_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_8_0.woff') format('woff'),url('optima/2C3246_8_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-Black';src: url('optima/2C3246_9_0.eot');src: url('optima/2C3246_9_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_9_0.woff') format('woff'),url('optima/2C3246_9_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-DemiBold';src: url('optima/2C3246_A_0.eot');src: url('optima/2C3246_A_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_A_0.woff') format('woff'),url('optima/2C3246_A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'OptimaLT-DemiBoldItalic';src: url('optima/2C3246_B_0.eot');src: url('optima/2C3246_B_0d41d.eot?#iefix') format('embedded-opentype'),url('optima/2C3246_B_0.woff') format('woff'),url('optima/2C3246_B_0.ttf') format('truetype');}
+ 
